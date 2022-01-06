@@ -7,20 +7,27 @@ body{
     h2{
         font-size: 40px;
     }
+    h3{
+        font-size: 30px;
+        font-weight: bold;
+    }
     .purple-color{color: purple;
 
     }
     .image-person{width: 300px;
-        padding-right: 10px;
-        margin-top: 20px;
+        padding-right: 90px;
+        padding-left: 100px;
+        margin-top: 30px;
+        margin-left: 200px;
     }
     .flexible-box{
         display: flex;
         width: 80%;
-    padding-inline-start: 80px;   }
+    padding-inline-start: 80px;
+    padding-bottom: 5%;}
     .link-button{
         text-decoration: none;
-        background-image: linear-gradient(orange,tomato);
+        background-image: linear-gradient(coral,tomato);
         background-color: coral;
         padding: 10px 40px;
         color: white;
@@ -31,4 +38,62 @@ body{
         border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+    }
+    .green-color{
+        color: rgb(20, 175, 6);
+    }
+    h2{
+        text-align: center;
+    }
+    .pic-edit{
+        width: 70%;
+        padding-left: 0%;
+    }
+    h4{
+        font-weight: bold;
+    }
+    .box-area{
+        padding-left: 4%;
+        text-align: left;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 5%;
+        margin-right: 5%;
+        box-shadow: 10px 10px 30px rgb(0, 183, 255);
+        border-radius: 10px;
+    }
+    #mission{
+    border-left: 7px solid;
+    border-image: linear-gradient(red,purple);
+    border-image-slice: 1;
+    }
+    #vision{
+        border-left: 7px solid;
+        border-image: linear-gradient(yellow,green);
+        border-image-slice: 1;
+        box-shadow: 10px 10px 20px lime;
+    }
+    #goal{
+        border-left: 7px solid;
+        border-image: linear-gradient(white, navy);
+        border-image-slice: 1;
+        box-shadow: 10px 10px 20px orange;
+    }
+    .girl-pic{
+        width: 250px;
+        margin-left: 3%;
+        margin-top: 5%;
+        padding-left: 10px;
+    }
+    h3{
+        font-weight: bold;
+        margin-left: 5%;
+        padding-left: 20px;
+    }
+    .develop-area{
+        display: flex; 
+        width: 60%;
+        margin-left: 10%;
+        margin-right: 2%;
+        text-align: center;
+        padding-left: 60px;
     }
