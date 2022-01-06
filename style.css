@@ -19,6 +19,7 @@ body{
         padding-left: 90px;
         margin-top: 30px;
         margin-left: 200px;
+        background-image: url(./images/shapes/shape-3.png);
     }
     .flexible-box{
         display: flex;
@@ -67,18 +68,21 @@ body{
     border-left: 7px solid;
     border-image: linear-gradient(red,purple);
     border-image-slice: 1;
+    background-color: rgb(0, 255, 221);
     }
     #vision{
         border-left: 7px solid;
         border-image: linear-gradient(yellow,green);
         border-image-slice: 1;
         box-shadow: 10px 10px 20px lime;
+        background-color: rgb(100, 210, 237);
     }
     #goal{
         border-left: 7px solid;
         border-image: linear-gradient(white, navy);
         border-image-slice: 1;
         box-shadow: 10px 10px 20px orange;
+        background-color: rgb(47, 255, 134);
     }
     .girl-pic{
         width: 250px;
