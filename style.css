@@ -16,18 +16,20 @@ body{
     }
     .image-person{width: 300px;
         padding-right: 90px;
-        padding-left: 100px;
+        padding-left: 90px;
         margin-top: 30px;
         margin-left: 200px;
     }
     .flexible-box{
         display: flex;
-        width: 80%;
-    padding-inline-start: 80px;
-    padding-bottom: 5%;}
+        width: 90%;
+        padding-inline-start: 80px;
+        padding-bottom: 5%;
+        padding-left:50px;
+        margin-left: 6%;}
     .link-button{
         text-decoration: none;
-        background-image: linear-gradient(coral,tomato);
+        background-image: linear-gradient(purple,red);
         background-color: coral;
         padding: 10px 40px;
         color: white;
@@ -96,4 +98,20 @@ body{
         margin-right: 2%;
         text-align: center;
         padding-left: 60px;
+        padding-bottom: 50px;
+    }
+    .final-pic{
+        width: 300px;
+        padding-right: 90px;
+        padding-left: 100px;
+        margin-top: 30px;
+        margin-left: 200px;
+    }
+    footer{
+        text-align: center;
+        color: blueviolet;
+        background-color: black;
+    }
+    .footer-color{
+        color: red;
     }
