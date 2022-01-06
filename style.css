@@ -26,8 +26,8 @@ body{
         width: 90%;
         padding-inline-start: 80px;
         padding-bottom: 5%;
-        padding-left:50px;
-        margin-left: 6%;}
+        padding-left:40px;
+        margin-left: 5%;}
     .link-button{
         text-decoration: none;
         background-image: linear-gradient(purple,red);
@@ -97,7 +97,7 @@ body{
     }
     .develop-area{
         display: flex; 
-        width: 60%;
+        width: 80%;
         margin-left: 10%;
         margin-right: 2%;
         text-align: center;
