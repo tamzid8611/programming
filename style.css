@@ -27,7 +27,7 @@ body{
         padding-inline-start: 80px;
         padding-bottom: 5%;
         padding-left:40px;
-        margin-left: 5%;}
+        margin-left: 2%;}
     .link-button{
         text-decoration: none;
         background-image: linear-gradient(purple,red);
@@ -101,7 +101,7 @@ body{
         margin-left: 10%;
         margin-right: 2%;
         text-align: center;
-        padding-left: 60px;
+        padding-left: 20px;
         padding-bottom: 50px;
     }
     .final-pic{
