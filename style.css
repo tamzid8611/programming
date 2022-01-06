@@ -111,10 +111,15 @@ body{
         margin-top: 30px;
         margin-left: 200px;
     }
+    h5{
+        font-size: 20px;
+        padding-top: 10px;
+    }
     footer{
         text-align: center;
-        color: blueviolet;
+        color: rgb(213, 181, 243);
         background-color: black;
+        padding-bottom: 5px ;
     }
     .footer-color{
         color: red;
